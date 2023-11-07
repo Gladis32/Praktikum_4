@@ -1,8 +1,9 @@
 # <strong> Praktikum Python </strong>
 >Tugas praktikum 3 Bahasa Pemrograman | Universitas Pelita Bangsa
 
-## Struktur kondusional (lab2)
+## Struktur kondisional (lab2)
 ### Tugas Latihan 1
+![alt text](?raw=true)
 <b>menentukan bilangan terbesar dari dua bilangan</b>
 * input() program akan menginput nilai-=nilai yang dimasukkan pada bilangan 1 dan 2
 * program memeriksa kondisi dengan permyataam if-else. Program akan membandingkan bilangan 1 dan 2 mengguanakan operator perbandingan '>". Jika bilangan 1 lebih besar dari bilanagan 2, maka if akan diekseskusi. Bilangan terbesarn akan diisi dengan nilai bilanagan 1
